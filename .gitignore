@@ -15,3 +15,13 @@ Thumbs.db
 .DS_Store
 
 Config/DefaultEditorPerProjectUserSettings.ini
+
+# Stock Unreal template content
+Content/Characters/
+Content/Input/
+Content/LevelPrototyping/
+Content/ThirdPerson/
+
+# External actor data for stock Third Person template level
+Content/__ExternalActors__/ThirdPerson/
+Content/__ExternalObjects__/ThirdPerson/
